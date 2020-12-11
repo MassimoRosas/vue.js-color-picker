@@ -1,0 +1,22 @@
+{
+  "name": "vue.js-color-picker",
+  "version": "1.0.0",
+  "description": "A tiny vue.js app which lets you build and save colors.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MassimoRosas/vue.js-color-picker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MassimoRosas/vue.js-color-picker/issues"
+  },
+  "homepage": "https://github.com/MassimoRosas/vue.js-color-picker#readme",
+  "dependencies": {
+    "vue": "^2.6.12"
+  }
+}
